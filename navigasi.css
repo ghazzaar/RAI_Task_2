@@ -1,0 +1,24 @@
+ul{
+  list-style-type: none;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  padding: 15px;
+}
+
+a{
+  color: #ffffff;
+}
+
+.nav-right{
+  float: right;
+  padding-right: 20px;
+}
+
+.navbar{
+  background-color: #4484e4;
+  font-family: Verdana;
+  font-size: 12px;
+}
